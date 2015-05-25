@@ -1,3 +1,4 @@
+/*master chekin*/
 Ext.require([
     'Ext.form.*',
     'Ext.tip.QuickTipManager'
